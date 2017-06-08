@@ -34,18 +34,19 @@ public final class R {
         public static final int xingau=0x7f02000a;
     }
     public static final class id {
-        public static final int FrameLayout1=0x7f080008;
+        public static final int FrameLayout1=0x7f080009;
         public static final int LinearLayout1=0x7f080000;
-        public static final int action_settings=0x7f08000b;
-        public static final int buttonDoXiNgau=0x7f080007;
-        public static final int gvwBauCua=0x7f080003;
+        public static final int action_settings=0x7f08000c;
+        public static final int buttonDoXiNgau=0x7f080008;
+        public static final int gvwBauCua=0x7f080004;
         public static final int imageView2=0x7f080002;
-        public static final int imagexingau1=0x7f080004;
-        public static final int imagexingau2=0x7f080005;
-        public static final int imagexingau3=0x7f080006;
-        public static final int imgbaucua=0x7f080009;
-        public static final int spngiatien=0x7f08000a;
+        public static final int imagexingau1=0x7f080005;
+        public static final int imagexingau2=0x7f080006;
+        public static final int imagexingau3=0x7f080007;
+        public static final int imgbaucua=0x7f08000a;
+        public static final int spngiatien=0x7f08000b;
         public static final int textViewTien=0x7f080001;
+        public static final int textViewthoigian=0x7f080003;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
